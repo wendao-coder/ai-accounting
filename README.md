@@ -1,4 +1,4 @@
-# AI 记账本
+# AI应用 记账本
 
 一个简单的个人记账应用，使用 React + TypeScript + Vite 开发。
 
